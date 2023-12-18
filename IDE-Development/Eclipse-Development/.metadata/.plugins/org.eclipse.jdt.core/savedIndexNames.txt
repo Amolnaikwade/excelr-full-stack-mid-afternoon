@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\HP\Desktop\Excelr\ExclermeetAfternon\IDE-Development\Eclipse-Development\.metadata\.plugins\org.eclipse.jdt.core
+883855861.index
+2380175872.index
+1865797976.index
+2100572317.index

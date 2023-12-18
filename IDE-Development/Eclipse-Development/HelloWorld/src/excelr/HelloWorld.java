@@ -1,0 +1,19 @@
+package excelr;
+
+public class HelloWorld
+{
+	public static void main(String[] arg)
+	{
+		test();
+	System.out.println("HEllo World");
+	
+	}
+	static void test()
+	{
+	 for(int i = 0; i <= 5; i++) 
+	 {
+		 System.out.println("iteration: "+ i);
+		
+	}
+  }
+}

@@ -1,0 +1,4 @@
+class Hellow000world 
+{
+	
+}

@@ -1,0 +1,35 @@
+class C
+{
+
+	{
+			System.out.println("IIB1");
+
+	}
+	C()
+	{
+	System.out.println("C()");
+	}
+	
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+			C c1 = new C();
+			System.out.println("----------");
+			C c2 = new C();
+			System.out.println("----------");
+		{
+			System.out.println("IIB2");
+		}
+
+	}
+}
+/*
+lo World!
+IIB1
+C()
+----------
+IIB1
+C()
+----------
+IIB2
+*/
