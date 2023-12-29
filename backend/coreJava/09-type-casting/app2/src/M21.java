@@ -7,26 +7,28 @@ if(obj instanceof Object)
 System.out.println("we can cast to object");
 Object obj1 = (Object)obj;
 }
-else if(obj instanceof A)
+ if(obj instanceof A)
 {
 System.out.println("we can cast to A");
 A a1 = (A)obj;
-}
-else if(obj instanceof B)
+
+ if(obj instanceof B)
 {
-System.out.println("we can cast to A");
+System.out.println("we can cast to B");
 B b1 = (B)obj;
-}
-else if(obj instanceof C)
+ if(obj instanceof C)
 {
-System.out.println("we can cast to A");
+System.out.println("we can cast to C");
 C c1 = (C)obj;
-}
-else if(obj instanceof D)
+if(obj instanceof D)
 {
-System.out.println("we can cast to A");
+System.out.println("we can cast to D");
 D d1 = (D)obj;
-}
+					}
+				}
+			}
+		}
+	}
 }
 	public static void main(String[] args) 
 	{
