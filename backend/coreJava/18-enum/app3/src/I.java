@@ -1,0 +1,8 @@
+enum I
+{
+	;
+	void test()
+	{
+	}
+	
+}

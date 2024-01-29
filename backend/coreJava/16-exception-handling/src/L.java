@@ -1,0 +1,6 @@
+class L 
+{
+	/*void test()
+	{
+	}*/
+}
